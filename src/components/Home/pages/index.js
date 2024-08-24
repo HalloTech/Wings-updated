@@ -12,4 +12,6 @@ export { default as PlainOversize } from "../../Products/PlainOversize";
 export { default as PlainRoundNeck } from "../../Products/PlainRoundNeck";
 
 export { default as SingleHoodies } from "../../single-products/SingleHoodies";
+export { default as SingleOverSize } from "../../single-products/SingleOverSize";
+
 export { default as HoodiesCart } from "../../cart/HoodiesCart";

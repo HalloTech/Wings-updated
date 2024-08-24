@@ -15,6 +15,7 @@ import {
   PlainOversize, 
   PlainRoundNeck,
   BlackRoundedNeckTShirt,
+  SingleOverSize ,
 } from "../components/Home/pages";
 
 const router = () => {
@@ -40,6 +41,7 @@ const router = () => {
           <Route path="/rounded-Tshirts" element={<RoundedNeckTshirts />} />
           <Route path="/plain-round-neck" element={<PlainRoundNeck />} />
           <Route path="/black-rounded-Tshirts" element={<BlackRoundedNeckTShirt />} />
+          <Route path="/single-oversize" element={<SingleOverSize />} />
           <Route path="/polo" element={<Polos />} />
 
           <Route path="/single-hoodies" element={<SingleHoodies />} />
