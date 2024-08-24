@@ -7,7 +7,7 @@ const PrintedOversizeTshirts = () => {
 
   const handleUserClick = (oversized) => {
     // console.log("send the correct data from the users", oversized);
-    navigate("/single-hoodies", { state: { hoodiesSingleData: oversized } });
+    navigate("/single-oversize", { state: { hoodiesSingleData: oversized } });
     // navigate("/user-profile");
   };
 
