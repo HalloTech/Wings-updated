@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Amiri:wght@300;400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Amiri";
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-playwrite {
+  font-family: "Playwrite DE Grund", cursive;
+}
