@@ -8,6 +8,8 @@ export { default as BlackRoundedNeckTShirt } from "../../Products/BlackRoundedNe
 export { default as Polos } from "../../Products/Polos";
 export { default as OverSizeTShirt } from "../../Products/OverSizeTShirt";
 export { default as PrintedOversizeTshirts } from "../../Products/PrintedOversizeTshirts";
+export { default as PlainOversize } from "../../Products/PlainOversize";
+export { default as PlainRoundNeck } from "../../Products/PlainRoundNeck";
 
 export { default as SingleHoodies } from "../../single-products/SingleHoodies";
 export { default as HoodiesCart } from "../../cart/HoodiesCart";
