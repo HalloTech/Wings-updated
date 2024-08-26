@@ -4,12 +4,15 @@
     "images": [
       "/assets/page-1/oversized-product-1-1.png",
       "/assets/page-1/oversized-product-1-2.png",
+      "/assets/page-1/oversized-product-1-3.png",
+      "/assets/page-1/oversized-product-1-4.png",
+      "/assets/page-1/oversized-product-1-5.png",
       "/assets/page-1/oversized-product-colorTheme-1.png",
       "/assets/page-1/oversized-chart-product.jpeg"
     ],
     "alt": "Honorable",
     "product_head": "Beige Oversized Tshirt",
-    "product_para": "Wings premium oversized tshirt.",
+    "product_para": "Wings Premium Oversized Tshirt",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
@@ -24,7 +27,7 @@
     ],
     "alt": "Honorable",
     "product_head": "Light Blue Oversized Tshirt",
-    "product_para": "Wings premium oversized tshirt.",
+    "product_para": "Wings Premium Oversized Tshirt",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
@@ -40,7 +43,7 @@
     ],
     "alt": "Honorable",
     "product_head": "Jet Black Oversized Tshirt",
-    "product_para": "Wings premium oversized tshirt.",
+    "product_para": "Wings Premium Oversized Tshirt",
     "product_old_price": "1899",
     "product_new_price": "799"
   }, 
@@ -56,7 +59,7 @@
     ],
     "alt": "Honorable",
     "product_head": "Cement Grey Oversized Tshirt",
-    "product_para": "Wings premium oversized tshirt.",
+    "product_para": "Wings Premium Oversized Tshirt",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
@@ -64,33 +67,34 @@
   {
     "id": 1,
     "images": [
-      "/assets/page-1/oversized-product-5-1.jpg",
-      "/assets/page-1/oversized-product-5-2.jpg",
-      "/assets/page-1/oversized-product-5-3.jpg",
+      "/assets/page-1/oversized-product-7-4.jpg",
+      "/assets/page-1/oversized-product-7-5.jpg",
+      "/assets/page-1/oversized-product-7.3-3.jpg",
       "/assets/page-1/oversized-chart-product.jpeg"
     ],
     "alt": "Honorable",
-    "product_head": "The Adventure Black Oversized Tshirt",
-    "product_para": "Wings premium oversized tshirt.",
+    "product_head": "Black Diving Oversized Tshirt",
+    "product_para": "Wings Premium Black Printed Oversized Tshirt.",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
+  
+
   {
     "id": 2,
     "images": [
       "/assets/page-1/oversized-product-7-1.jpg",
       "/assets/page-1/oversized-product-7-2.jpg",
       "/assets/page-1/oversized-product-7-3.jpg",
-      "/assets/page-1/oversized-product-7-4.jpg",
-      "/assets/page-1/oversized-product-7-5.jpg",
       "/assets/page-1/oversized-chart-product.jpeg"
     ],
     "alt": "Honorable",
     "product_head": "BoomBox Black Oversized Tshirt",
-    "product_para": "Wings premium oversized tshirt.",
+    "product_para": "Wings Premium Black Printed Oversized Tshirt.",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
+
   {
     "id": 3,
     "images": [
@@ -101,54 +105,144 @@
     ],
     "alt": "Honorable",
     "product_head": "Skate Boarding Black Oversized Tshirt",
-    "product_para": "Wings premium oversized tshirt.",
+    "product_para": "Wings Premium Black Printed Oversized Tshirt.",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
   {
     "id": 4,
     "images": [
-      "/assets/page-1/oversized-product-10-1.jpg",
-      "/assets/page-1/oversized-product-10-2.jpg",
-      "/assets/page-1/oversized-product-10-3.jpg",
-      "/assets/page-1/oversized-product-10-4.jpg",
-      "/assets/page-1/oversized-product-10-5.jpg",
+      "/assets/page-1/oversized-product-18-1.jpg",
+      "/assets/page-1/oversized-product-18-2.jpg",
+      "/assets/page-1/oversized-product-18-3.jpg",
+      
       "/assets/page-1/oversized-chart-product.jpeg"
     ],
     "alt": "Honorable",
     "product_head": "Wings Black Oversized Tshirt",
-    "product_para": "Wings premium oversized tshirt.",
+    "product_para": "Wings Premium Black Printed Oversized Tshirt.",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
+
+  {
+    "id": 4,
+    "images": [
+      "/assets/page-1/oversized-product-10-1.jpg",
+      "/assets/page-1/oversized-product-10-2.jpg",
+      "/assets/page-1/oversized-product-10-3.jpg",
+      
+      "/assets/page-1/oversized-chart-product.jpeg"
+    ],
+    "alt": "Honorable",
+    "product_head": "Wings Black Oversized Tshirt",
+    "product_para": "Wings Premium Black Printed Oversized Tshirt.",
+    "product_old_price": "1899",
+    "product_new_price": "799"
+  },
+
   {
     "id": 5,
     "images": [
-      "/assets/page-1/Printed-OST_1.1.jpg",
-      "/assets/page-1/Printed-OST_1.2.jpg",
-      "/assets/page-1/Printed-OST_1.3.jpg",
-      "/assets/page-1/Printed-OST_1.4.jpeg"
+      "/assets/page-1/oversized-product-11-1.jpg",
+      "/assets/page-1/oversized-product-11-2.jpg",
+      "/assets/page-1/oversized-product-11-3.jpg",
+      "/assets/page-1/oversized-chart-product.jpg"
     ],
     "alt": "Honorable",
-    "product_head": " Wings Beige Printed Oversized Tshirt",
-    "product_para": "Wings premium printed oversized tshirt.",
+    "product_head": "Californa Cement Grey Oversized Tshirt",
+    "product_para": "Wings Premium Cement Grey Printed Oversized Tshirt.",
+    "product_old_price": "1899",
+    "product_new_price": "799"
+  },
+
+  {
+    "id": 7,
+    "images": [
+      "/assets/page-1/oversized-product-12-1.jpg",
+      "/assets/page-1/oversized-product-12-2.jpg",
+      "/assets/page-1/oversized-product-12-3.jpg",
+      "/assets/page-1/oversized-chart-product.jpeg"
+    ],
+    "alt": "Honorable",
+    "product_head": "Freedom Courage Cement Grey Oversized Tshirt",
+    "product_para": "Wings Premium Cement Grey Printed Oversized Tshirt.",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
   {
-    "id": 6,
+    "id": 8,
     "images": [
-      "/assets/page-1/Printed-OST_2.1.jpg",
-      "/assets/page-1/Printed-OST_2.2.jpg",
-      "/assets/page-1/Printed-OST_2.3.jpg",
-      "public/page-1/Printed-OST_2.4.jpg"
+      "/assets/page-1/oversized-product-13-1.jpg",
+      "/assets/page-1/oversized-product-13-2.jpg",
+      "/assets/page-1/oversized-product-13-3.jpg",
+      "/assets/page-1/oversized-chart-product.jpeg"
     ],
     "alt": "Honorable",
-    "product_head": "Best Version Of You Oversized Tshirt",
-    "product_para": "Beige Be the best version of you premium oversized tshirt.",
+    "product_head": " Go Outside Cook Inside Oversized Tshirt",
+    "product_para": "Wings Premium Cement Grey Printed Oversized Tshirt.",
+    "product_old_price": "1899",
+    "product_new_price": "799"
+  }
+  ,
+  {
+    "id": 9,
+    "images": [
+      "/assets/page-1/oversized-product-14-1.jpg",
+      "/assets/page-1/oversized-product-14-2.jpg",
+      "/assets/page-1/oversized-product-14-3.jpg",
+      "/assets/page-1/oversized-chart-product.jpeg"
+    ],
+    "alt": "Honorable",
+    "product_head": "Hippie Soul Cement Grey Oversized Tshirt",
+    "product_para": "Wings Premium Cement Grey Printed Oversized Tshirt.",
+    "product_old_price": "1899",
+    "product_new_price": "799"
+  }
+  ,
+  {
+    "id": 10,
+    "images": [
+      "/assets/page-1/oversized-product-15-1.jpg",
+      "/assets/page-1/oversized-product-15-2.jpg",
+      "/assets/page-1/oversized-product-15-3.jpg",
+      "/assets/page-1/oversized-chart-product.jpeg"
+    ],
+    "alt": "Honorable",
+    "product_head": "Road Runner Cement Grey Oversized Tshirt",
+    "product_para": "Wings Premium Cement Grey Printed Oversized Tshirt.",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
+  {
+    "id": 11,
+    "images": [
+      "/assets/page-1/oversized-product-16-1.jpg",
+      "/assets/page-1/oversized-product-16-2.jpg",
+      "/assets/page-1/oversized-product-16-3.jpg",
+      "/assets/page-1/oversized-chart-product.jpeg"
+    ],
+    "alt": "Honorable",
+    "product_head": "Skate Boarding Cement Grey Oversized Tshirt",
+    "product_para": "Wings Premium Cement Grey Printed Oversized Tshirt.",
+    "product_old_price": "1899",
+    "product_new_price": "799"
+  },
+  {
+    "id": 12,
+    "images": [
+      "/assets/page-1/oversized-product-17-1.jpg",
+      "/assets/page-1/oversized-product-17-2.jpg",
+      "/assets/page-1/oversized-product-17-3.jpg",
+      "/assets/page-1/oversized-chart-product.jpeg"
+    ],
+    "alt": "Honorable",
+    "product_head": "Wings Printed Cement Grey Oversized Tshirt",
+    "product_para": "Wings Premium Cement Grey Printed Oversized Tshirt.",
+    "product_old_price": "1899",
+    "product_new_price": "799"
+  },
+
   {
     "id": 7,
     "images": [
@@ -159,21 +253,21 @@
     ],
     "alt": "Honorable",
     "product_head": "Motorcycle Printed Oversize Tshirt",
-    "product_para": "Beige Wings premium oversized tshirt.",
+    "product_para": "Beige Wings Premium Oversized Tshirt",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
   {
     "id": 8,
     "images": [
+      "/assets/page-1/Printed-OST_4.1.jpg",
       "/assets/page-1/Printed-OST_4.2.jpg",
-      
       "/assets/page-1/Printed-OST_4.3.jpg",
       "/assets/page-1/oversized-chart-product.jpeg"
     ],
     "alt": "Honorable",
-    "product_head": "Native American Printed Oversize Tshirt",
-    "product_para": "Beige Wings premium oversized tshirt.",
+    "product_head": "Free Spirit Printed Oversize Tshirt",
+    "product_para": "Beige Wings Premium Oversized Tshirt",
     "product_old_price": "1899",
     "product_new_price": "799"
   }
@@ -188,7 +282,7 @@
     ],
     "alt": "Honorable",
     "product_head": "Freedom Courage Oversized Tshirt",
-    "product_para": "Beige Wings premium oversized tshirt.",
+    "product_para": "Beige Wings Premium Oversized Tshirt",
     "product_old_price": "1899",
     "product_new_price": "799"
   }
@@ -203,7 +297,7 @@
     ],
     "alt": "Honorable",
     "product_head": "Go Out Side Cook Inside Oversized Tshirt",
-    "product_para": "Beige Wings premium oversized tshirt.",
+    "product_para": "Beige Wings Premium Oversized Tshirt",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
@@ -217,7 +311,7 @@
     ],
     "alt": "Honorable",
     "product_head": "Hippie Soul Oversized Tshirt",
-    "product_para": "Beige Wings premium oversized tshirt.",
+    "product_para": "Beige Wings Premium Oversized Tshirt",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
@@ -232,11 +326,11 @@
     ],
     "alt": "Honorable",
     "product_head": "Road Runner Printed Oversized Tshirt",
-    "product_para": "Beige Wings premium oversized tshirt.",
+    "product_para": "Beige Wings Premium Oversized Tshirt",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
-
+  
   {
     "id": 13,
     "images": [
@@ -247,7 +341,7 @@
     ],
     "alt": "Honorable",
     "product_head": "Best Version Of You Oversized Tshirt",
-    "product_para": "Sky Blue Wings Premium Oversized Tshirt.",
+    "product_para": "Sky Blue Wings Premium Oversized Tshirt",
     "product_old_price": "1899",
     "product_new_price": "799"
   },
@@ -286,8 +380,8 @@
     "id": 16,
     "images": [
       "/assets/page-1/Printed-OST_12.2.jpg",
-      "/assets/page-1/Printed-OST_12.1.jpg",
       "/assets/page-1/Printed-OST_12.3.jpg",
+      "/assets/page-1/Printed-OST_11.1.jpg",
       "/assets/page-1/oversized-chart-product.jpeg"
     ],
     "alt": "Honorable",
@@ -333,6 +427,7 @@
       "/assets/page-1/Printed-OST_16.3.jpg",
       "/assets/page-1/Printed-OST_16.2.jpg",
       "/assets/page-1/Printed-OST_16.3.jpg",
+      "/assets/page-1/Printed-OST_16.4.jpg",
       "/assets/page-1/oversized-chart-product.jpeg"
     ],
     "alt": "Honorable",
@@ -353,111 +448,6 @@
     "alt": "Honorable",
     "product_head": "Wings On Wheel Oversized Tshirt",
     "product_para": "Sky Blue Printed Premium Oversized Tshirt.",
-    "product_old_price": "1899",
-    "product_new_price": "799"
-  },
-
-  {
-    "id": 20,
-    "images": [
-      "/assets/page-1/Printed-OST_18.1.jpg",
-      "/assets/page-1/Printed-OST_18.2.jpg",
-      "/assets/page-1/Printed-OST_18.3.jpg",
-      "/assets/page-1/oversized-chart-product.jpeg"
-    ],
-    "alt": "Honorable",
-    "product_head": "California Classic Printed Oversized Tshirt",
-    "product_para": "Cement grey premium oversized tshirt.",
-    "product_old_price": "1899",
-    "product_new_price": "799"
-  },
-
-  {
-    "id": 20,
-    "images": [
-      "/assets/page-1/Printed-OST_19.1.jpg",
-      "/assets/page-1/Printed-OST_19.2.jpg",
-      "/assets/page-1/Printed-OST_19.3.jpg",
-      "/assets/page-1/oversized-chart-product.jpeg"
-    ],
-    "alt": "Honorable",
-    "product_head": "Freedom Courage Printed Oversized Tshirt",
-    "product_para": "Cement grey premium oversized tshirt.",
-    "product_old_price": "1899",
-    "product_new_price": "799"
-  },
-
-  {
-    "id": 20,
-    "images": [
-      "/assets/page-1/Printed-OST_20.1.jpg",
-      "/assets/page-1/Printed-OST_20.2.jpg",
-      "/assets/page-1/Printed-OST_20.3.jpg",
-      "/assets/page-1/oversized-chart-product.jpeg"
-    ],
-    "alt": "Honorable",
-    "product_head": "Go Out Side Cook Inside Oversized Tshirt",
-    "product_para": "Cement grey premium oversized tshirt.",
-    "product_old_price": "1899",
-    "product_new_price": "799"
-  },
-
-  {
-    "id": 20,
-    "images": [
-      "/assets/page-1/Printed-OST_21.1.jpg",
-      "/assets/page-1/Printed-OST_21.2.jpg",
-      "/assets/page-1/Printed-OST_21.3.jpg",
-      "/assets/page-1/oversized-chart-product.jpeg"
-    ],
-    "alt": "Honorable",
-    "product_head": "Hippie Soul Printed Oversized Tshirt",
-    "product_para": "Cement grey premium oversized tshirt.",
-    "product_old_price": "1899",
-    "product_new_price": "799"
-  },
-
-  {
-    "id": 20,
-    "images": [
-      "/assets/page-1/Printed-OST_22.1.jpg",
-      "/assets/page-1/Printed-OST_22.2.jpg",
-      "/assets/page-1/Printed-OST_22.3.jpg",
-      "/assets/page-1/oversized-chart-product.jpeg"
-    ],
-    "alt": "Honorable",
-    "product_head": "Road Runner Printed Oversized Tshirt",
-    "product_para": "Cement grey premium oversized tshirt.",
-    "product_old_price": "1899",
-    "product_new_price": "799"
-  },
-
-  {
-    "id": 20,
-    "images": [
-      "/assets/page-1/Printed-OST_23.1.jpg",
-      "/assets/page-1/Printed-OST_23.2.jpg",
-      "/assets/page-1/Printed-OST_23.3.jpg",
-      "/assets/page-1/oversized-chart-product.jpeg"
-    ],
-    "alt": "Honorable",
-    "product_head": "Skate Boarding Printed Oversized Tshirt",
-    "product_para": "Cement grey premium oversized tshirt.",
-    "product_old_price": "1899",
-    "product_new_price": "799"
-  },
-
-  {
-    "id": 20,
-    "images": [
-      "/assets/page-1/Printed-OST_24.1.jpg",
-      "/assets/page-1/Printed-OST_24.2.jpg",
-      "/assets/page-1/Printed-OST_24.3.jpg",
-      "/assets/page-1/oversized-chart-product.jpeg"
-    ],
-    "alt": "Honorable",
-    "product_head": "Wings Printed Oversized Tshirt",
-    "product_para": "Cement grey premium oversized tshirt.",
     "product_old_price": "1899",
     "product_new_price": "799"
   }
