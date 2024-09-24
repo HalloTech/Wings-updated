@@ -4,8 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## Developed By
 
-This project was developed by **HalloTech**. The primary developer is **Gaurav Tiwari**, a MERN stack developer.
-
+This project was developed by **HalloTech**. 
 ## Overview
 
 This project setup includes React and Vite for fast and efficient development with Hot Module Replacement (HMR). It also incorporates ESLint rules to ensure code quality and consistency.
